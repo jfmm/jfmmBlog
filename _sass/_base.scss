@@ -1,0 +1,23 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+  font-family: $heading-font;
+  text-transform: uppercase;
+}
+
+p {
+  font-family: $paragraph-font;
+  max-width: 600px;
+}
+
+.post-meta {
+  font-family: $paragraph-font;
+  color: $light-gray;
+  font-weight: $font-weight--light;
+  font-size: $small_font-size;
+  text-transform: uppercase;
+}

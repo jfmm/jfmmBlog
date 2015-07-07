@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<body>
+
+ <ul class="post-list">
+   {% for post in site.posts %}
+   <li><a href="{{ post.url | prepend: site.baseurl}}">{{ post.title }}</a></li>
+   {% endfor %}
+</ul>
+
+</body>
+<!---- Website Handcrafted by Jose Morales-Mendizabal @ www.jf-mm.com ---------->
+</html>

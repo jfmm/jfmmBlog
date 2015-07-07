@@ -1,0 +1,12 @@
+# Site settings
+title: Jose Morales Mendizabal | Web Developer and Designer
+email: moralejf@gmail.com
+description: Blog Posts and Work Portfolio by Web Designer Jose Morales Mendizabal.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jf-mm.com" # the base hostname & protocol for your site
+twitter_username: moralejf
+github_username:  jfmm
+
+# Build settings
+markdown: kramdown
+permalink: pretty

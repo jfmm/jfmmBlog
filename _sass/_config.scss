@@ -1,0 +1,33 @@
+/*------------------------
+/ Global Config File
+/-------------------------*/
+
+
+
+// Font Stack
+
+$heading-font   : "jaf-bernino-sans-condensed",sans-serif;
+$paragraph-font : "proxima-nova", sans-serif;
+
+
+// Font Weights
+
+$font-weight--light     : 300;
+$font-weight--regular   : 400;
+$font-weight--bold      : 700;
+$font-weight--extraBold : 800;
+
+
+// Color Palette
+
+$main-yellow : #f9a731;
+$white       : #ffffff;
+$dark-gray   : #161616;
+$light-gray  : #989898;
+
+
+// Typographic Measures
+
+$base_font-size    : 1em;
+$small_font-size   : 0.9em;
+$heading_font-size : 1.75em;
